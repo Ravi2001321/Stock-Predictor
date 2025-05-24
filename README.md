@@ -1,6 +1,6 @@
 # 📈 Stock Price Prediction Using Random Forest
 
-This project uses **machine learning** and **technical analysis** to predict stock closing prices based on historical market data. It employs a **Random Forest Regressor** for prediction and provides intuitive **visualizations** for enhanced data interpretation.
+This project uses **machine learning** and **technical analysis** to predict stock closing prices based on historical market data. It employs a **Random Forest Regressor** for prediction and provides intuitive **visualizations** for enhanced data interpretation. Developed and executed using Visual Studio Code.
 
 ---
 
@@ -20,6 +20,11 @@ This project uses **machine learning** and **technical analysis** to predict sto
 ---
 
 ## 🚀 Getting Started
+
+💻 Development Environment
+
+Developed and tested using Visual Studio Code
+Python version: 3.7+
 
 ### 📦 Installation
 
@@ -123,19 +128,16 @@ Uses `matplotlib` and `seaborn` to create clear, readable charts:
 
 ---
 
-## 📈 Example Output
-
-```
+📈 Example Output
+yaml
+Copy
+Edit
 Model Evaluation:
   Mean Squared Error: 2.87
   R² Score: 0.942
 
 Predicted next day closing price for TSLA: $173.22
-```
-
-Charts will be saved or shown in a window, depending on your script settings.
-
----
+Visual outputs are saved or displayed interactively using Visual Studio Code.
 
 ## 🧠 Future Improvements
 
